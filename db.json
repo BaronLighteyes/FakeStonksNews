@@ -1,7 +1,6 @@
 {
     "Stonk-Price": "5",
-    "Users":[
-        {
+    "Users":{
             "Baron_Lighteyes":{
                 "Holdings": "10"
             },
@@ -9,7 +8,8 @@
                 "Holdings": "5"
             }
         }
-    ]
+        
+    
 
 
 }
